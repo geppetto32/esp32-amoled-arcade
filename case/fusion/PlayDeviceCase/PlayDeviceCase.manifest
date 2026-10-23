@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "author": "DIY Play Device",
+  "description": {
+    "": "Builds the wooden case prototype for the DIY Play Device and exports plate DXFs."
+  },
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
