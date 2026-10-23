@@ -27,3 +27,6 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Facebook post photos (generated)
+social/photos/

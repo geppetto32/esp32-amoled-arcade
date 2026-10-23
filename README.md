@@ -12,6 +12,8 @@
 
 </div>
 
+**English** · [Ελληνικά](README.el.md)
+
 One small board, no soldering needed: 368x448 AMOLED with touch, tilt sensor, speaker, battery
 charger, RTC and micro-SD slot. Hold it like a handheld, tilt to steer, use the two buttons on top
 and the touch screen. Games, a set of woodworking tools and a settings page all live in one
