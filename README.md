@@ -146,6 +146,8 @@ and writes DXF outlines for laser or CNC into `case/dxf/` (generated, not stored
 older LilyGO plan (portrait, eight buttons), not this AMOLED board, and has not been run in Fusion yet.
 
 ### One-hand grip (v1, in design)
+> **Not finished:** this is an early design. It will still change, and no working grip has been built or tested yet.
+
 A wooden grip for the bare AMOLED board plus an Xbox-style thumbstick, built in Fusion by `case/fusion/hh_grip.py`
 (design notes: `case/fusion/grip_design.md`). Right hand: thumb on the stick, index finger on the two top buttons, battery in the
 palm handle. Four laminated layers (laser + CNC), about 92 x 95 x 21 mm. The stick and battery are still placeholders: measure yours
